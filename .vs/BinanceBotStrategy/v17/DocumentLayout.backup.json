@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\_work\\BinanceBotStrategy\\BinanceBotStrategy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F16920-52CA-4211-BBD8-AF42810C7FCA}|BinanceBotStrategy\\BinanceBotStrategy.csproj|c:\\_work\\binancebotstrategy\\binancebotstrategy\\binancebotstrategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F16920-52CA-4211-BBD8-AF42810C7FCA}|BinanceBotStrategy\\BinanceBotStrategy.csproj|solutionrelative:binancebotstrategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\_work\\BinanceBotStrategy\\BinanceBotStrategy\\BinanceBotStrategy\\Program.cs",
+              "RelativeDocumentMoniker": "BinanceBotStrategy\\Program.cs",
+              "ToolTip": "C:\\_work\\BinanceBotStrategy\\BinanceBotStrategy\\BinanceBotStrategy\\Program.cs",
+              "RelativeToolTip": "BinanceBotStrategy\\Program.cs",
+              "ViewState": "AgIAAJ4CAAAAAAAAAAAnwKwCAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-14T23:20:45.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "TelegramChannel": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "phone_number": "+40730620029",
+        "api_id": "25230683",
+        "api_hash": "f4dde99638af3a579e8a1cf4aeeba208"
+      }
+    }
+  }
+}
